@@ -1,0 +1,11 @@
+  ['5491176565846', 'Arte Vélaut', true],
+  ['5491130084805', 'The Museum AI', true],
+
+global.packname = ''
+global.author = 'ㅤ\nㅤ\nㅤ\n𓊓ㅤㅤㅤㅤ𝗍𝗁𝖾 𝗆𝗎𝗌𝖾𝗎𝗆ㅤ𓐄ㅤ𝑎𝑖ㅤㅤㅤㅤ𓈒\nㅤ\n𝑛ㅤㅤ ㅤ𝇅ㅤㅤㅤ 𝑐𝑜.ㅤㅤㅤㅤ𝁼ㅤㅤㅤㅤ𝘃𝗲́\nㅤ\nㅤ\n'
+global.wm = 'The Museum AI'
+global.igfg = 'The Museum AI'
+global.wait = 'Cargando...'
+
+global.wm2 = `▸ ${dia} ${fecha}\n▸ The Museum AI`
+global.gt = 'The Museum AI'
